@@ -16,12 +16,13 @@ Package contents
 - database --------------------  sample database for demo.
 
 files in folder src\DataExport.Demo\Template
-Order-excel.xml --- excel spreadsheet 2003 xml format, it can open with excel application.
-OrderData.xml ----- sample data xml, it is a DataSet.
-Order.xslt -------- sample template, use it to generate the file.
+- Order-excel.xml --- excel spreadsheet 2003 xml format, it can open with excel - application.
+- OrderData.xml ----- sample data xml, it is a DataSet.
+- Order.xslt -------- sample template, use it to generate the file.
 
 How to Use
 	For example, we want export a order with detail to a excel.
+    
 	1. Declare a param list, and set the OrderId parameter.	
 	Dictionary<string, string> paramList = new Dictionary<string, string>();
 	paramList["OrderId"] = txtOrderId.Text.Trim();
