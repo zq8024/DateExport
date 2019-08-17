@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+    <vars>
+        <key>OrderId</key>
+        <value>10248</value>
+    </vars>
+    <Order>
+        <OrderID>10248</OrderID>
+        <ContactName>Paul Henriot</ContactName>
+        <OrderDate>1996-07-04T00:00:00+08:00</OrderDate>
+        <ShippedDate>1996-07-16T00:00:00+08:00</ShippedDate>
+        <ShipCountry>France</ShipCountry>
+        <ShipCity>Reims</ShipCity>
+        <ShipAddress>59 rue de l'Abbaye</ShipAddress>
+    </Order>
+    <OrderDetail>
+        <OrderId>10248</OrderId>
+        <ProductName>Queso Cabrales</ProductName>
+        <UnitPrice>14.0000</UnitPrice>
+        <Quantity>12</Quantity>
+        <Total>168.0000</Total>
+    </OrderDetail>
+    <OrderDetail>
+        <OrderId>10248</OrderId>
+        <ProductName>Singaporean Hokkien Fried Mee</ProductName>
+        <UnitPrice>9.8000</UnitPrice>
+        <Quantity>10</Quantity>
+        <Total>98.0000</Total>
+    </OrderDetail>
+    <OrderDetail>
+        <OrderId>10248</OrderId>
+        <ProductName>Mozzarella di Giovanni</ProductName>
+        <UnitPrice>34.8000</UnitPrice>
+        <Quantity>5</Quantity>
+        <Total>174.0000</Total>
+    </OrderDetail>
+</root>
