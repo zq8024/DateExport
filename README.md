@@ -10,10 +10,10 @@ Features
 3. Use XSLT to tranform the XML to target content
 
 Package contents
-bin -------------------------  binary files.
-doc -------------------------  document files.
-src -------------------------  source code and demo.
-database --------------------  sample database for demo.
+> bin -------------------------  binary files.
+> doc -------------------------  document files.
+> src -------------------------  source code and demo.
+> database --------------------  sample database for demo.
 
 files in folder src\DataExport.Demo\Template
 Order-excel.xml --- excel spreadsheet 2003 xml format, it can open with excel application.
